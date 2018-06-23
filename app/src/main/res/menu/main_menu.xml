@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Download Latest News"
+        android:id="@+id/download"></item>
+
+    <item android:title="Show Saved News"
+        android:id="@+id/saved"></item>
+</menu>
